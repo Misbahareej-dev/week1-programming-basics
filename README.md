@@ -1,4 +1,4 @@
-🧮 Scientific Calculator
+#🧮 Scientific Calculator
 
 A beginner-friendly Console-Based Scientific Calculator developed in Python as part of my Software Development Internship – Week 1 Project.
 
@@ -6,7 +6,7 @@ This project performs basic arithmetic operations as well as advanced mathematic
 
 ---
 
-👩‍💻 Project Information
+##👩‍💻 Project Information
 
 Information| Details
 Project Name| Scientific Calculator
@@ -18,7 +18,7 @@ Developed By| Misbah Areej
 
 ---
 
-📌 Project Overview
+##📌 Project Overview
 
 The Scientific Calculator is a Python-based command-line application designed to perform different types of mathematical calculations.
 
@@ -38,9 +38,9 @@ This project was developed to practice fundamental Python programming concepts s
 
 ---
 
-✨ Features
+##✨ Features
 
-🔢 Basic Operations
+###🔢 Basic Operations
 
 The calculator supports:
 
@@ -49,7 +49,7 @@ The calculator supports:
 - Multiplication
 - Division
 
-🧮 Advanced Features
+###🧮 Advanced Features
 
 The calculator also provides:
 
@@ -65,19 +65,19 @@ The calculator also provides:
   - Log Base 10
   - Natural Log (ln)
 
-📋 Calculation History
+###📋 Calculation History
 
 All successful calculations are stored in the history section during the current program session.
 
-🔄 Previous Answer
+###🔄 Previous Answer
 
 The calculator allows the user to reuse the previous calculation result in a new calculation.
 
-🛡️ Input Validation
+###🛡️ Input Validation
 
 The program validates user input and prevents invalid values from crashing the application.
 
-⚠️ Error Handling
+###⚠️ Error Handling
 
 The calculator handles common errors such as:
 
@@ -91,7 +91,7 @@ The calculator handles common errors such as:
 
 ---
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 - Python 3
 - Math Module
@@ -120,7 +120,7 @@ Scientific-Calculator/
 
 ---
 
-▶️ How to Run
+##▶️ How to Run
 
 Step 1: Install Python
 
@@ -144,7 +144,7 @@ The Scientific Calculator will start in the terminal.
 
 ---
 
-📖 How to Use
+##📖 How to Use
 
 After starting the program:
 
@@ -160,7 +160,7 @@ After starting the program:
 
 ---
 
-🧾 Main Menu
+###🧾 Main Menu
 
 The calculator contains the following main options:
 
@@ -173,7 +173,7 @@ The calculator contains the following main options:
 
 ---
 
-🔢 Basic Operations Menu
+###🔢 Basic Operations Menu
 
 ========== BASIC OPERATIONS ==========
 
@@ -185,7 +185,7 @@ The calculator contains the following main options:
 
 ---
 
-🧮 Advanced Features Menu
+###🧮 Advanced Features Menu
 
 ========== ADVANCED FEATURES ==========
 
@@ -199,7 +199,7 @@ The calculator contains the following main options:
 
 ---
 
-🔄 Previous Answer Feature
+###🔄 Previous Answer Feature
 
 The calculator provides a Previous Answer feature.
 
@@ -215,7 +215,7 @@ This makes consecutive calculations easier and faster.
 
 ---
 
-📋 History Feature
+###📋 History Feature
 
 The calculator stores successful calculations during the current program session.
 
@@ -231,7 +231,7 @@ This allows the user to review previously performed calculations.
 
 ---
 
-🛡️ Error Handling
+###🛡️ Error Handling
 
 The application includes several safety checks to provide a better user experience.
 
@@ -257,7 +257,7 @@ Error! Factorial is not defined for negative numbers.
 
 ---
 
-📸 Screenshots
+##📸 Screenshots
 
 1. Loading and Welcome Screen
 
@@ -297,7 +297,7 @@ Error! Factorial is not defined for negative numbers.
 ![Exit Screen](./screenshots/24_Exit_Screen.png.png)
 ---
 
-🎯 Learning Outcomes
+##🎯 Learning Outcomes
 
 Through this project, I practiced and improved my understanding of:
 
@@ -318,7 +318,7 @@ Through this project, I practiced and improved my understanding of:
 
 ---
 
-🚀 Future Improvements
+##🚀 Future Improvements
 
 Some possible improvements for future versions include:
 
@@ -333,7 +333,7 @@ Some possible improvements for future versions include:
 
 ---
 
-💡 Project Highlights
+##💡 Project Highlights
 
 This project demonstrates the practical use of Python fundamentals in a real-world style application.
 
@@ -349,7 +349,7 @@ The main focus was to create a calculator that is:
 
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Misbah Areej
 
@@ -358,7 +358,7 @@ Software Development Internship
 
 ---
 
-⭐ Conclusion
+##⭐ Conclusion
 
 The Scientific Calculator was developed as my Week 1 Software Development Internship Project to apply basic Python programming concepts in a practical application.
 
@@ -366,4 +366,4 @@ The project helped me understand how programming concepts such as functions, loo
 
 ---
 
-⭐ Thank you for visiting this project!
+##⭐ Thank you for visiting this project!
